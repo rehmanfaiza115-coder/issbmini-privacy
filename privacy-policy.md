@@ -3,48 +3,39 @@ Last updated: April 03, 2026
 App Name: ISSBmini
 Developer: MahaTech.co
 Contact Email: mahatech.pk@gmail.com
-MahaTech.co respects your privacy and is committed to protecting it. This Privacy Policy explains our practices regarding the collection, use, and disclosure of any information related to your use of the ISSBmini mobile application (the “App”).
+MahaTech.co respects your privacy and is committed to protecting it. This Privacy Policy explains our practices regarding any information related to your use of the ISSBmini mobile application (the “App”).
 1. Introduction
 ISSBmini is a completely offline education application designed to help candidates prepare for the Inter Services Selection Board (ISSB) tests for the Pakistan Armed Forces.
-The App operates entirely without an internet connection and contains no tracking, analytics, advertising, cloud synchronization, or data transmission features.
-2. Information We Do Not Collect
-Because ISSBmini is fully offline:
+The core content and functionality of the App work entirely offline. However, to keep the App free, it displays third-party advertisements.
+2. Information Collected by MahaTech.co
+MahaTech.co itself does not collect, store on our servers, or process any personal data from users.
+All practice tests, notes, quiz scores, or any other content you create remain stored locally on your device only and are never sent to us.
+3. Data Collected by Advertising Services
+The App uses third-party advertising services (such as Google AdMob) to display ads. These services may automatically collect certain information when ads are shown or interacted with. This includes:
 
-We do not collect, store on servers, process, or transmit any personal information or user data.
-We do not collect any of the following:
-Personal identifiers (name, email address, phone number, etc.)
-Demographic information (age, gender, etc.)
-Location data
-Device identifiers for tracking purposes
-Usage data, crash reports, or analytics that leave your device
-Any learning progress, quiz scores, notes, answers, or other user-generated content (all of which remain stored locally on your device only)
+Device or other identifiers (e.g., Android Advertising ID)
+App usage and interaction data
+Diagnostic and performance data
 
+This data is collected and processed by the ad provider (a third party), not directly by MahaTech.co. It is used for purposes such as:
 
-No data is ever sent to MahaTech.co, our servers, or any third parties.
-3. Local Storage Only
-Any information you create or save while using the App (such as practice test answers, notes, or progress tracking) is stored exclusively on your personal device using standard Android local storage.
+Displaying advertisements
+Measuring ad performance
+Fraud prevention and security
 
-This data is accessible only by the App on your device.
-MahaTech.co has no access to it.
-If you uninstall the App, all locally stored data will be permanently deleted from your device (subject to your device’s standard uninstall behavior).
-
-The App may request permissions such as storage access solely to enable saving and loading of your local practice materials. These permissions are used exclusively for offline functionality and never for collecting or transmitting data.
-4. Third-Party Services
-ISSBmini does not integrate any third-party services, SDKs, or libraries that collect or process user data (including analytics, advertising, or social media tools). Therefore, no third parties receive any information from this App.
-5. Children’s and Students’ Privacy
-ISSBmini is an education app intended for students and young adults preparing for ISSB tests. Since the App collects no personal data whatsoever, we do not knowingly collect or process information from children under the age of 13 (or the applicable minimum age in your jurisdiction). All activity and data remain strictly on the user’s device.
-6. Data Security
-Although we do not collect any data, we design the App to operate securely on your device. All processing happens locally, which significantly reduces external privacy and security risks.
+You can control personalized advertising through your device settings:
+Settings → Google → Ads → Opt out of personalized ads (or similar on your device).
+4. Local Storage
+Any user-generated content (notes, answers, progress, etc.) is saved only on your device using Android’s local storage. We have no access to it.
+5. Third-Party Services
+The only third-party service used is for advertising. We do not use analytics, tracking, or cloud services for our own purposes.
+For more details about how the ad provider handles data, please see their privacy policy (for example, Google’s advertising privacy policy: https://policies.google.com/technologies/ads).
+6. Children’s and Students’ Privacy
+This is an education app. MahaTech.co does not collect any personal data. However, the advertising service may collect limited data as described above. Parents are encouraged to review and adjust device ad settings.
 7. Your Rights
-Because MahaTech.co does not collect, store, or process any of your personal data:
-
-There is no data for us to provide, correct, delete, or transfer in response to a request.
-You retain full control over any locally stored information on your device and may delete it at any time through your device settings or by uninstalling the App.
-
+You have full control over data stored locally on your device. For advertising-related data, you can manage preferences in your device settings.
 8. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time to reflect changes in the App or applicable laws. Any material changes will be indicated by updating the “Last updated” date at the top of this page.
-Since the App is offline, we recommend that users periodically review the latest version of this Privacy Policy via the link provided in the App’s “About” or “Settings” section or on our website.
+We may update this Privacy Policy if we make changes to monetization or features. The “Last updated” date will be revised.
 9. Contact Us
-If you have any questions or concerns about this Privacy Policy or the App’s data practices, please feel free to contact us at:
+If you have any questions, please contact us at:
 Email: mahatech.pk@gmail.com
-We will respond to your inquiry as promptly as possible.
